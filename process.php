@@ -5,7 +5,7 @@
     }
     
     
-    $destination = "your@email.com";       //  Put your email address here
+    $destination = "coltona82012@gmail.com";       //  Put your email address here
     $subject = "Message from your baller website!";   //  Fill in the subject line you want your messages to have
     $fromAddress = "example@example.com";   //  Fill in the email address that you want the messages to appear to be from
                                                                     //  Use a real address to reduce the odds of getting spam-filtered.
